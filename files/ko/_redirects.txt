@@ -701,6 +701,7 @@
 /ko/docs/Web/JavaScript/Reference/About	/ko/docs/Web/JavaScript/Reference
 /ko/docs/Web/JavaScript/Reference/About/Formatting_Conventions	/ko/docs/Web/JavaScript/Reference
 /ko/docs/Web/JavaScript/Reference/Classes/Class_static_initialization_blocks	/ko/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks
+/ko/docs/Web/JavaScript/Reference/Classes/Private_class_fields	/ko/docs/Web/JavaScript/Reference/Classes/Private_properties
 /ko/docs/Web/JavaScript/Reference/Errors/Bad_return_or_yield	/ko/docs/Web/JavaScript/Reference/Errors/Bad_return
 /ko/docs/Web/JavaScript/Reference/Errors/Malformed_formal_parameter	/ko/docs/Web/JavaScript/Reference/Errors/Missing_formal_parameter
 /ko/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint	/ko/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
