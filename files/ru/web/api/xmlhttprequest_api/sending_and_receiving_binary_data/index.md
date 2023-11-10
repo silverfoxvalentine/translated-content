@@ -1,6 +1,7 @@
 ---
 title: Отправка и получение бинарных данных
-slug: Web/API/XMLHttpRequest/Sending_and_Receiving_Binary_Data
+slug: Web/API/XMLHttpRequest_API/Sending_and_Receiving_Binary_Data
+original_slug: Web/API/XMLHttpRequest/Sending_and_Receiving_Binary_Data
 ---
 
 ## Получение бинарных данных используя JavaScript arrays

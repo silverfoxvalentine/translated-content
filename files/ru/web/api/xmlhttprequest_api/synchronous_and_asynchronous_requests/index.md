@@ -1,6 +1,7 @@
 ---
 title: Синхронные и асинхронные запросы
-slug: Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests
+slug: Web/API/XMLHttpRequest_API/Synchronous_and_Asynchronous_Requests
+original_slug: Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests
 ---
 
 `XMLHttpRequest` поддерживает как синхронные, так и асинхронные запросы. В основном предпочтительно использовать асинхронные запросы вместо синхронных из-за соображений производительности.

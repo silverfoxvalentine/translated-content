@@ -438,6 +438,7 @@
 /ru/docs/Web/API/File/getAsDataURL	/ru/docs/orphaned/Web/API/File/getAsDataURL
 /ru/docs/Web/API/FileReader/onabort	/ru/docs/Web/API/FileReader/abort_event
 /ru/docs/Web/API/File_and_Directory_Entries_API/Введение	/ru/docs/Web/API/File_and_Directory_Entries_API/Introduction
+/ru/docs/Web/API/FormData/Using_FormData_Objects	/ru/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects
 /ru/docs/Web/API/Geolocation/Using_geolocation	/ru/docs/Web/API/Geolocation_API
 /ru/docs/Web/API/Geolocation/Using_geolocation/Using_the_Geolocation_API	/ru/docs/Web/API/Geolocation_API/Using_the_Geolocation_API
 /ru/docs/Web/API/GlobalEventHandlers/onabort	/ru/docs/conflicting/Web/API/HTMLMediaElement/abort_event
@@ -549,6 +550,9 @@
 /ru/docs/Web/API/WindowTimers/setTimeout	/ru/docs/Web/API/setTimeout
 /ru/docs/Web/API/Worker/onmessage	/ru/docs/Web/API/Worker/message_event
 /ru/docs/Web/API/XMLDocument/async	/ru/docs/Web/API/XMLDocument
+/ru/docs/Web/API/XMLHttpRequest/Sending_and_Receiving_Binary_Data	/ru/docs/Web/API/XMLHttpRequest_API/Sending_and_Receiving_Binary_Data
+/ru/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests	/ru/docs/Web/API/XMLHttpRequest_API/Synchronous_and_Asynchronous_Requests
+/ru/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest	/ru/docs/Web/API/XMLHttpRequest_API/Using_XMLHttpRequest
 /ru/docs/Web/API/XMLHttpRequest/onreadystatechange	/ru/docs/Web/API/XMLHttpRequest/readystatechange_event
 /ru/docs/Web/API/console.timeEnd	/ru/docs/Web/API/console/timeEnd
 /ru/docs/Web/API/document.activeElement	/ru/docs/Web/API/Document/activeElement
@@ -800,7 +804,8 @@
 /ru/docs/Web/JavaScript/JavaScript_шеллы	/ru/docs/conflicting/Web/JavaScript/JavaScript_technologies_overview_0191f05ec18a4ee4d771b548feb0701d
 /ru/docs/Web/JavaScript/Language_Resources	/ru/docs/conflicting/Web/JavaScript/JavaScript_technologies_overview
 /ru/docs/Web/JavaScript/Reference/Classes/Class_fields	/ru/docs/Web/JavaScript/Reference/Classes/Public_class_fields
-/ru/docs/Web/JavaScript/Reference/Classes/Приватные_поля_класса	/ru/docs/Web/JavaScript/Reference/Classes/Private_class_fields
+/ru/docs/Web/JavaScript/Reference/Classes/Private_class_fields	/ru/docs/Web/JavaScript/Reference/Classes/Private_properties
+/ru/docs/Web/JavaScript/Reference/Classes/Приватные_поля_класса	/ru/docs/Web/JavaScript/Reference/Classes/Private_properties
 /ru/docs/Web/JavaScript/Reference/Errors/Bad_octal	/ru/docs/conflicting/Web/JavaScript/Reference/Errors/Deprecated_octal
 /ru/docs/Web/JavaScript/Reference/Errors/Bad_return_or_yield	/ru/docs/Web/JavaScript/Reference/Errors/Bad_return
 /ru/docs/Web/JavaScript/Reference/Errors/Cant_access_property	/ru/docs/conflicting/Web/JavaScript/Reference/Errors/Unexpected_type
